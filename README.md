@@ -34,3 +34,6 @@ For orders, personalized gifts, availability, and inquiries, please contact Hams
 ---
 
 Hamsa Gifts Lebanon — Gifts made for special moments.
+
+https://gitlab.com/Hamsa.gifts.lb
+
